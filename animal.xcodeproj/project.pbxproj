@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		65A81455264418270039C3B3 /* QuestionData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65A81454264418270039C3B3 /* QuestionData.swift */; };
 		65B20B7A264024B3008380EB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65B20B79264024B3008380EB /* AppDelegate.swift */; };
 		65B20B7C264024B3008380EB /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65B20B7B264024B3008380EB /* SceneDelegate.swift */; };
 		65B20B7E264024B3008380EB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65B20B7D264024B3008380EB /* ViewController.swift */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		65A81454264418270039C3B3 /* QuestionData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionData.swift; sourceTree = "<group>"; };
 		65B20B76264024B3008380EB /* animal.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = animal.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		65B20B79264024B3008380EB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		65B20B7B264024B3008380EB /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -64,6 +66,7 @@
 				65B20B7B264024B3008380EB /* SceneDelegate.swift */,
 				65B20B7D264024B3008380EB /* ViewController.swift */,
 				65B20B7F264024B3008380EB /* Main.storyboard */,
+				65A81454264418270039C3B3 /* QuestionData.swift */,
 				65B20B8E2640327B008380EB /* QuestionsViewController.swift */,
 				65B20B912640328F008380EB /* ResultViewController.swift */,
 				65B20B82264024B4008380EB /* Assets.xcassets */,
@@ -146,6 +149,7 @@
 				65B20B922640328F008380EB /* ResultViewController.swift in Sources */,
 				65B20B7E264024B3008380EB /* ViewController.swift in Sources */,
 				65B20B7A264024B3008380EB /* AppDelegate.swift in Sources */,
+				65A81455264418270039C3B3 /* QuestionData.swift in Sources */,
 				65B20B8F2640327B008380EB /* QuestionsViewController.swift in Sources */,
 				65B20B7C264024B3008380EB /* SceneDelegate.swift in Sources */,
 			);
